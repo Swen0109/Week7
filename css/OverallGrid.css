@@ -1,0 +1,264 @@
+body{
+	font-family: 'Lato', sans-serif;
+	margin:0px -50px;
+	display: grid;
+	grid-template-columns:70px 350px 75px 75px 75px 75px 75px 100px 350px 60px 120px 100px;
+	grid-template-rows: 20px 50px 150px 50px 250px 320px 140px 50px 100px 50px 250px 50px;
+}
+
+#header{
+	grid-column:1/4;
+	grid-row:1/2;
+}
+
+#banner{
+	grid-column:1/4;
+	grid-row:4/5;
+}
+
+#logo{
+	grid-column:1/3;
+	grid-row:2/3;
+}
+#footer{
+	grid-column:1/4; 
+	grid-row:12/13;
+}
+
+#banner2{
+	grid-column:2/4;
+	grid-row:5/6;
+}
+
+#fade{
+	grid-column:2/3;
+	grid-row:7/8;
+}
+
+#nivo{
+	grid-column:3/4 ;
+	grid-row:7/8 ;
+}
+
+#bonus{
+	grid-column:8/9;
+	grid-row:7/8;
+}
+
+#Naam{
+	grid-column:3/5;
+	grid-row:12/13;
+}
+
+#Kopje{
+	grid-column:8/10;
+	grid-row:4/5;
+}
+
+h1{
+	color: white;
+}
+
+#Prof{
+	grid-column:2/3 ;
+	grid-row:8/9;
+	color: black;	
+}
+#Nivoslider{
+	grid-column:3/5;
+	grid-row:8/9;
+    color: black;
+}
+
+#Bonus2{
+	grid-column:8/10;
+	grid-row:8/9;
+	color: black;
+}
+
+#kop1{
+	grid-column:2/3;
+	grid-row:9/10;
+}
+
+#tekst2{
+	grid-column:3/6;
+	grid-row:9/10;
+	color: black;
+}
+
+#tekst3{
+	grid-column:8/10;
+	grid-row:9/10;
+}
+
+#home{
+	grid-column:3/4;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#autos{
+	grid-column:4/5;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#Kleding{
+	grid-column:5/6;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#Blog{
+	grid-column:6/7;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#Gallery{
+	grid-column:7/8;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#Shortcodes{
+	grid-column:8/9;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#Contact{
+	grid-column:9/10;
+	grid-row:3/4;
+	font-size:22px 20px;
+}
+
+#tekst4{
+	grid-row:5/6;
+	grid-column:8/9;
+	width:15em
+}
+
+#audi{
+	grid-column:2/3;
+	grid-row:7/8;
+}
+
+
+#autoprijs{
+	grid-column:2/2;
+	grid-row:9/10;
+}
+
+#audi2{
+	grid-column:3/4;
+	grid-row:7/8;
+}
+#autoprijs2{
+	grid-column:3/5;
+	grid-row:9/10;
+}
+
+#audi3{
+	grid-column:8/9;
+	grid-row:7/8;
+}
+
+#autoprijs3{
+	grid-column:8/10;
+	grid-row:9/10;
+}
+
+#a3beoordeling{
+	grid-column:2/3;
+	grid-row:10/11;
+}
+
+#klantenbeoordeling{
+	grid-column:2/3;
+	grid-row:11/12;
+}
+
+#a4beoordeling{
+	grid-column:3/5;
+	grid-row:10/11;
+}
+
+#klantenbeoordeling2{
+	grid-column:3/5;
+	grid-row:11/12;
+}
+
+#sterren{
+	grid-column:8/9;
+	grid-row:9/10;
+}
+
+#sterrenvijf{
+	grid-column:7/10;
+	grid-row:11/12
+}
+
+#logo2{
+	grid-column:1/3;
+	grid-row:5/8;
+}
+
+#info{
+	grid-row:5/6;
+	grid-column:8/9;
+	width:15em
+}
+
+#kleding1{
+	grid-column:2/3;
+	grid-row:7/8;
+}
+
+#kleding2{
+	grid-column:3/4;
+	grid-row:7/8;
+}
+
+#kleding3{
+	grid-column:8/9;
+	grid-row:7/8;
+}
+
+#kledingprijs1{
+	grid-column:2/4;
+	grid-row:10/11;
+}
+
+#kledingprijs2{
+	grid-column:3/5;
+	grid-row:10/11;
+}
+
+#kledingprijs3{
+	grid-column:8/10;
+	grid-row:10/11;
+}
+
+#kledingprijs4{
+	grid-column:1/3;
+	grid-row:5/8;
+}
+
+#kleding4{
+	grid-column:1/3;
+	grid-row:5/8;
+}
+
+
+#actie{
+	grid-row:5/6;
+	grid-column:8/9;
+	width:15em
+}
+
+p{
+	font-size:14px 20px;
+}
+
